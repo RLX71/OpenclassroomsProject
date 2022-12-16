@@ -1,0 +1,1 @@
+La branche cagnotte fonctionne comme un dossier virtuel dans lequel nous sommes téléportés. On reste dans le dossier principal du porjet physiquement, mais virtuellement nous sommes passés dans un monde parallèle ! :0
